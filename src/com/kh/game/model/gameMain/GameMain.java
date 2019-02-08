@@ -15,7 +15,7 @@ import com.kh.game.model.view.ChangePanel;
 import com.kh.game.model.view.DescripDlg;
 import com.kh.game.model.view.MainFrame;
 import com.kh.game.model.view.OXPlay;
-
+ 
 public class GameMain extends JPanel implements ActionListener{
 	private MainFrame mf;
 	private JPanel gameMain;

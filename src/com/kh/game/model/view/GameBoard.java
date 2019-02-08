@@ -7,7 +7,7 @@ import java.util.Set;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
-
+ 
 public class GameBoard extends JPanel{
 	private GamePanel gp;
 	private JPanel GameBoard;

@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 public class OXPlay extends JPanel{
 	private MainFrame mf;
 	private JPanel oxPlay;
-	
+	 
 	public OXPlay(MainFrame mf) {
 		this.mf = mf;
 		this.oxPlay = this;

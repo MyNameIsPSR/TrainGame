@@ -3,9 +3,9 @@ package com.kh.game.model.view;
 import java.awt.Color;
 import java.awt.Graphics;
 
-import javax.swing.*;
+import javax.swing.JPanel;
 
-import controller.DifferenceSpot;
+import com.kh.game.controller.DifferenceSpot;
 
 
 public class Munjae4 extends JPanel{

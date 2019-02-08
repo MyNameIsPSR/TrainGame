@@ -12,7 +12,7 @@ import javax.swing.JTextArea;
 
 public class DescripDlg {
 	private Dialog dlg;
-	private MainFrame mf;
+	private MainFrame mf; 
 	private String title;
 	private String description;
 	

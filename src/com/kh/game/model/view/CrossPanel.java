@@ -14,7 +14,7 @@ import com.kh.game.model.talk.Talk3;
 
 //∞°∑Œºº∑Œ≥π∏ª∆€¡Ò
 public class CrossPanel extends JPanel implements ActionListener{
-	private MainFrame mf;
+	private MainFrame mf; 
 	private JButton btnNext = new JButton();
 	
 	private JPanel SubPanel;

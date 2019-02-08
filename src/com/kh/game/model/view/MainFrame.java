@@ -1,7 +1,7 @@
 package com.kh.game.model.view;
 
 import javax.swing.JFrame;
-
+ 
 public class MainFrame extends JFrame{
 	
 	public MainFrame() { //팀별로 하나만 작성

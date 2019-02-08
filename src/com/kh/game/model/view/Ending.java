@@ -9,7 +9,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 import com.kh.game.model.talk.Talk3;
-
+ 
 //마지막 엔딩(예시)
 //수정 필요!
 public class Ending extends JPanel{

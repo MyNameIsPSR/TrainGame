@@ -14,7 +14,7 @@ import com.kh.game.model.talk.Talk;
 public class Prolog extends JPanel{
 	
 	private MainFrame mf;
-	private JPanel prolog;
+	private JPanel prolog; 
 	
 	public Prolog(MainFrame mf) {
 		this.mf = mf;

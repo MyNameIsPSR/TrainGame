@@ -18,7 +18,7 @@ public class Munjae3 extends JPanel{
 	
 	@Override
 	public void paint(Graphics g) {
-		
+		 
 		g.setColor(Color.RED);
 		if(DifferenceSpot.spot1 == true) {
 			g.drawOval(242, 126, 30, 30);

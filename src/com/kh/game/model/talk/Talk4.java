@@ -11,7 +11,7 @@ import com.kh.game.model.view.ChangePanel;
 import com.kh.game.model.view.Ending;
 import com.kh.game.model.view.MainFrame;
 
-
+ 
 public class Talk4 extends JPanel{ 
 	
 	private MainFrame mf;

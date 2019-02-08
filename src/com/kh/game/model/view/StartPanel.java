@@ -12,7 +12,7 @@ import com.kh.game.model.talk.Talk;
 //시작화면(수정 필요)
 public class StartPanel extends JPanel{
 	private MainFrame mf;
-	private JPanel StartPanel;
+	private JPanel StartPanel; 
 	
 	public StartPanel(MainFrame mf) {
 		this.mf = mf;

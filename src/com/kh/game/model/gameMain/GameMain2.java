@@ -15,7 +15,7 @@ import com.kh.game.model.view.ChangePanel;
 import com.kh.game.model.view.CrossPanel;
 import com.kh.game.model.view.DescripDlg;
 import com.kh.game.model.view.MainFrame;
-
+ 
 public class GameMain2 extends JPanel implements ActionListener{
 	private MainFrame mf;
 	private JPanel gameMain;

@@ -20,7 +20,7 @@ public class OXResult extends JPanel {
 	private JPanel oxResult;
 
 	public OXResult(MainFrame mf) {
-		this.mf = mf;
+		this.mf = mf; 
 		this.oxResult = this;
 		
 		this.setLayout(null);

@@ -11,7 +11,7 @@ import javax.swing.*;
 public class ResultPanel extends JPanel{
 	
 	private GamePanel gp;
-	private JPanel ResultPanel;
+	private JPanel ResultPanel; 
 	
 	public ResultPanel(GamePanel gp) {
 		this.gp = gp;

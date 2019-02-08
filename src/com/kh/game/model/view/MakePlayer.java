@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SpinnerListModel;
-
+ 
 //캐릭터 생성(수정필요!)
 public class MakePlayer extends JPanel{
 	private MainFrame mf;

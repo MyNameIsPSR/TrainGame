@@ -9,7 +9,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
-
+ 
 //가로세로 낱말퍼즐
 //화면이 나오지 않음...(수정 필요!)
 public class GamePanel extends JPanel{
